@@ -1,3 +1,4 @@
+from abc import ABC
 from abc import abstractclassmethod
 import math
 class Figure(ABC):
